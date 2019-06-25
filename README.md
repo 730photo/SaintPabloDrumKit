@@ -8,6 +8,7 @@ Things I learned:
 
 - KeyBoard Events in JavaScript 
 - Playing audio / audio tags 
+- CSS transform property
 
 Goals: 
 - make this mobile responsive 
