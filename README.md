@@ -13,5 +13,8 @@ Things I learned:
 Goals: 
 - make this mobile responsive 
 
+Deployed app:
+https://admiring-keller-cd9a62.netlify.com
+
 
 <img width="1440" alt="Screen Shot 2019-06-25 at 12 47 56 PM" src="https://user-images.githubusercontent.com/29503790/60117203-96ccff00-9747-11e9-9676-dd8623017ae4.png">
